@@ -1,12 +1,6 @@
 [
   {
     "id": "3",
-    "content": "Task 3",
-    "timeToDo": "2024-08-30",
-    "status": "todo"
-  },
-  {
-    "id": "3",
     "content": "Task 2",
     "timeToDo": "2024-08-15",
     "status": "in-progress"
