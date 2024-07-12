@@ -1,8 +1,32 @@
 [
   {
     "id": "1",
-    "content": "Task 1",
+    "content": "Updated Task 1",
     "timeToDo": "2024-07-31",
+    "status": "done"
+  },
+  {
+    "id": "3",
+    "content": "Task 3",
+    "timeToDo": "2024-08-30",
     "status": "todo"
+  },
+  {
+    "id": "3",
+    "content": "Task 2",
+    "timeToDo": "2024-08-15",
+    "status": "in-progress"
+  },
+  {
+    "id": "4",
+    "content": "Task 3",
+    "timeToDo": "2024-08-30",
+    "status": "todo"
+  },
+  {
+    "id": "5",
+    "content": "Task 2",
+    "timeToDo": "2024-08-15",
+    "status": "in-progress"
   }
 ]
