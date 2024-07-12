@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "content": "Task 1",
+    "content": "Updated Task 1",
     "timeToDo": "2024-07-31",
-    "status": "todo"
+    "status": "done"
   },
   {
     "id": "2",
