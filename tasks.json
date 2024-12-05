@@ -18,5 +18,85 @@
     "content": "Practice DSA",
     "timeToDo": "2024-12-04",
     "status": "todo"
+  },
+  "1733412501234": {
+    "content": "Review code for final project",
+    "timeToDo": "2024-12-10",
+    "status": "todo"
+  },
+  "1733412556789": {
+    "content": "Implement new features for the mobile app",
+    "timeToDo": "2024-12-15",
+    "status": "todo"
+  },
+  "1733412678900": {
+    "content": "Complete TensorFlow tutorial",
+    "timeToDo": "2024-12-12",
+    "status": "todo"
+  },
+  "1733412789012": {
+    "content": "Write research paper on IoT healthcare",
+    "timeToDo": "2024-12-18",
+    "status": "todo"
+  },
+  "1733412890123": {
+    "content": "Update personal portfolio website",
+    "timeToDo": "2024-12-22",
+    "status": "todo"
+  },
+  "1733412901234": {
+    "content": "Deploy project on cloud",
+    "timeToDo": "2024-12-25",
+    "status": "todo"
+  },
+  "1733413012345": {
+    "content": "Prepare for Agile certification exam",
+    "timeToDo": "2024-12-08",
+    "status": "todo"
+  },
+  "1733413123456": {
+    "content": "Complete scikit-learn project",
+    "timeToDo": "2024-12-11",
+    "status": "todo"
+  },
+  "1733413234567": {
+    "content": "Study for data structures and algorithms exam",
+    "timeToDo": "2024-12-07",
+    "status": "todo"
+  },
+  "1733413345678": {
+    "content": "Finalize the documentation for IoT project",
+    "timeToDo": "2024-12-14",
+    "status": "todo"
+  },
+  "1733413456789": {
+    "content": "Review machine learning project with mentor",
+    "timeToDo": "2024-12-16",
+    "status": "todo"
+  },
+  "1733413567890": {
+    "content": "Complete Docker and Kubernetes tutorials",
+    "timeToDo": "2024-12-19",
+    "status": "todo"
+  },
+  "1733413678901": {
+    "content": "Start working on the final year project",
+    "timeToDo": "2024-12-24",
+    "status": "todo"
+  },
+  "1733413789012": {
+    "content": "Deploy final project on a public server",
+    "timeToDo": "2024-12-28",
+    "status": "todo"
+  },
+  "1733413890123": {
+    "content": "Attend workshop on cloud computing",
+    "timeToDo": "2024-12-30",
+    "status": "todo"
+  },
+  "1733413901234": {
+    "content": "Submit project report",
+    "timeToDo": "2024-12-31",
+    "status": "todo"
   }
 }
