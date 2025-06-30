@@ -2,7 +2,7 @@
   "1720944893732": {
     "content": "Fix the algorithm 20141 failing at 90% noise.",
     "timeToDo": "2024-07-21",
-    "status": "todo"
+    "status": "in-progress"
   },
   "1733412400303": {
     "content": "Fix bug",
