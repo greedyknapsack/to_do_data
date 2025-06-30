@@ -3,10 +3,5 @@
     "content": "Fix the algorithm 20141 failing at 90% noise.",
     "timeToDo": "2024-07-21",
     "status": "in-progress"
-  },
-  "1733412400303": {
-    "content": "Fix bug",
-    "timeToDo": "2024-12-05",
-    "status": "done"
   }
 }
